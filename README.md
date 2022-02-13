@@ -1,4 +1,4 @@
-# meales_app
+# Meales_app
 
 A basic catchy app built using flutter which provides the user with recipes of various meals.
 
